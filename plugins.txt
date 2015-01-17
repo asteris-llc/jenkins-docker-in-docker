@@ -1,0 +1,4 @@
+docker-build-step:latest
+scm-api:latest
+git:latest
+git-client:latest
